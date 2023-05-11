@@ -8,7 +8,7 @@ I am a backend developer who loves to learn and find new ways to solve problems!
 
 *   🌍  I'm based in Catanduva - SP Brazil
 *   ✉️  You can contact me at [gabrielmzoni@gmail.com](mailto:gabrielmzoni@gmail.com)
-*   🚀  I'm currently working on [Development of Integrations using Oracle OCI(Oracle Cloud Integration) and Oracle HCM(Human Capital Management )](http://sss)
+*   🚀  I'm currently working on Development of Integrations using Oracle OCI(Oracle Cloud Integration) and Oracle HCM(Human Capital Management )
 *   🧠  I'm learning The Whole Java Microservices Architecture using Docker, Kubernetes and Spring Cloud Framework
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I am a batman, tell everyone### Skills 
