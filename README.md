@@ -9,9 +9,9 @@ I am a backend developer who loves to learn and find new ways to solve problems!
 *   🌍  I'm based in São José do Rio Preto - SP Brazil
 *   ✉️  You can contact me at [gabrielmzoni@gmail.com](mailto:gabrielmzoni@gmail.com)
 *   🚀  I'm currently Working with Java Spring Boot exposing REST WebServices to consume in a Front-End built with ReactJS, Javascript, CSS, Bootstrap and StoryBlock.
-*   🧠  I'm learning more deeply Javascript and creating an aplication using BaaS Google Firebase and ReactJS.
+*   🧠  I'm learning more deeply Clean Architecture, new Java version (17,21) and NodeJS for Backend.
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  There is no better languange ou stack, there is the better solution to solve the problem.
+*   ⚡  There is no better languange or stack, there is the better solution to solve the problem.
 
 ### Skills 
 <p align="left">
